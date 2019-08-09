@@ -17,3 +17,5 @@ The Linear Movement App was created to show how inaccurate XY movement calculati
 ## [Arduino IDE Code](esp32/)
 
 Arduino IDE code, that uses the VL53L0X library to get the Time of Flight readings in millimeters and the MedianFilter library to reduce the noise of these readings.
+
+## [Final Report](links/Food_volume_measurement_app.docx)
